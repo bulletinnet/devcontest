@@ -20,3 +20,13 @@ Contestants submitting proprietary code are also welcome to create a private rep
 Contestants are responsible for any costs associated with creating a private repository.
 
 Submitted code must be stable, release-ready code. When submitting, please update the README for your branch to include a full description of your application and it's features, as well as how you are using Bulletin's Messenger API
+
+In addition, Bulletin team members must also be able to test the functionality of your application.
+
+Web-based applications: You must provide a link to the web page
+
+Desktop applications: You must provide an a copy of the application as well as any license keys as required
+
+Mobile applicaitons: You must provide the platform (iOS, Android, etc), the name of the application (if available in the App Store or Google Play), or a a copy of the application ready to be installed on a mobile device.
+
+If your application does not use Bulletin Messenger credentials for login, you must also provide a valid login and password
